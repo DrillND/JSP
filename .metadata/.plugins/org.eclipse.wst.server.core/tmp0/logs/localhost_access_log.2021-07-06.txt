@@ -35,3 +35,5 @@
 0:0:0:0:0:0:0:1 - - [06/Jul/2021:12:25:14 +0900] "GET /StudyBasicJSP/ch06/ifElseTestPro.jsp HTTP/1.1" 200 159
 0:0:0:0:0:0:0:1 - - [06/Jul/2021:12:27:09 +0900] "GET /StudyBasicJSP/ch06/ifElseTestPro.jsp HTTP/1.1" 200 172
 0:0:0:0:0:0:0:1 - - [06/Jul/2021:12:27:27 +0900] "GET /StudyBasicJSP/ch06/ifElseTestPro.jsp HTTP/1.1" 200 178
+127.0.0.1 - - [06/Jul/2021:14:45:23 +0900] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [06/Jul/2021:14:45:25 +0900] "GET /ShoppingMall/action.jsp HTTP/1.1" 500 2867
