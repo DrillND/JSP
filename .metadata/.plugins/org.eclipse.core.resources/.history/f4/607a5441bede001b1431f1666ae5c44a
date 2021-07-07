@@ -1,0 +1,29 @@
+//public class Dog{}
+
+class Dog {
+	private String name;
+	
+	public String getName() {
+		return name;
+		
+	}
+}
+
+public class SchopTest {
+	
+	// Scope A
+	static String name = "홍길동"; //멤버변수
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// Scope B
+		String name = "강감찬";
+		
+		System.out.println(name);
+		
+		Dog d = new Dog();
+		System.out.println(d.getName());
+	}
+
+}

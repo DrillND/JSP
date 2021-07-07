@@ -3,7 +3,7 @@
 
 <html>
 <head>
-<title>Response 내장 객체</title>
+<title>Response 내장 요청 객체</title>
 </head>
 <body>
   <h2>Response내장객체- 리다이렉트 예제</h2>

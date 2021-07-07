@@ -3,7 +3,7 @@
 
 <html>
 <head>
-<title>Response 내장 객체</title>
+<title>Response 내장 응답 객체</title>
 </head>
 <body>
   <h2>리다이렉트된 페이지 - responseRedirected.jsp</h2>
