@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DynamicWeb/src/main/webapp/20210712_Test01-1.jsp&apos; to &apos;20210712_Test01Pro.jsp&apos;" description="Rename resource &apos;20210712_Test01-1.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/20210712_Test01-1.jsp" name="20210712_Test01Pro.jsp" stamp="1626053243343" updateReferences="true"/>
+</session>

@@ -7,8 +7,7 @@
 <title>입력한 정보</title>
 </head>
 <body>
-
-<h2>입력한 정보</h2>
+<h2>입력한 결과</h2>
 <%request.setCharacterEncoding("utf-8");%>
 <%
 	String hak = request.getParameter("hak");
@@ -18,6 +17,8 @@
 학번 : <%=hak%><br>
 이름 : <%=name%><br>
 전공 : <%=major%><br>
+
+
 
 
 </body>
